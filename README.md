@@ -1,5 +1,25 @@
-# dombro Releases
+п»ї# dombro Releases
 
-Официальный публичный репозиторий для загрузки сборок и обновлений dombro.
+Official binaries and updates for **dombro** вЂ” a serene local-first browser and workspace.
 
-Все актуальные версии доступны в разделе [Releases](https://github.com/VladislavAkhmetov/dombro-releases/releases).
+## Downloads
+
+Download the latest version from [Releases](https://github.com/VladislavAkhmetov/dombro-releases/releases/latest):
+
+* **`dombro-Setup-<version>.exe`** вЂ” Standard Windows installer with background auto-updates.
+* **`dombro-<version>-Portable.exe`** вЂ” Single standalone executable. No installation required.
+
+## Windows SmartScreen Note
+
+Builds are currently distributed without a paid code signing certificate. On first launch:
+
+1. Click **More info**.
+2. Click **Run anyway**.
+
+## System Requirements
+
+* Windows 10 / 11 (64-bit)
+
+## Feedback & Bug Reports
+
+Please report issues, crashes, or suggestions in the [Issues](https://github.com/VladislavAkhmetov/dombro-releases/issues) tab.
